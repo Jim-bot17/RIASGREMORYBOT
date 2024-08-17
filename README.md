@@ -16,13 +16,16 @@
 <a href="https://github.com/Toxic1239/RIASGREMORYBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/RIASGREMORYBOT?label=Watchers&color=yellow&style=flat-square"></a>
 
 #### SETUP 
+### IF YOU WANNA DEPLOY USING CREDS.JSON ADD THE CREDS TO LIB/SESSIONS FOLDER 
 
 ### 1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Toxic1239/RIASGREMORYBOT/fork) It
 
 ### 2. GET SESSION ID HERE 
 
 <a href='https://riasgremorybot-xcqv.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+### 3. GET CREDS.JSON HERE 
 
+<a href='https://replit.com/@obidikechikadib/Toxic-Creds#main.sh' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 ### STEP 2
 ADD SESSION ID TO YOUR FORKED REPO IN CONFIG.JS
@@ -46,13 +49,9 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     <a href='https://railway.com/github/Toxic1239/RIASGREMORYBOT' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
 
  ### DEPLOY ON RENDER 
-1. AFTER YOU FORK AND STAR GET SESSION ID AND CLICK THE BELOW BUTTON
-2. TUTORIAL     <br>
-    <a href='https://youtube.com/shorts/JBwgqKqD-iw?si=i05juACNTRWWctsJ' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/-Tutorial-grey?style=for-the-badge&logo=youtube&logoColor=red'/></a>
-    <br>
-    <a href='https://github.com/Toxic1239/RIASGREMORY' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Tap+here-grey?style=for-the-badge&logo=github&logoColor=white'/></a>
-
-    ### DEPLOY ON CODESPACE 
+1. NOT AVAILABLE 
+    
+### DEPLOY ON CODESPACE 
 1. Deploy. `Free`
 Add session Id to config.js and then deploy to codespace
     <br>
